@@ -1,0 +1,1 @@
+choose folder, echo "--" >> README.md, git init, ls, git status, git add .(--all/filename), git commit -m "first commit", git remote add origin URL, git push origin main(git status appear), rm -rf .git, username, token for password
